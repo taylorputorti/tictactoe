@@ -1,0 +1,27 @@
+body{
+  text-align: center;
+}
+table, td {
+  border: 2px solid black;
+  width: 500px;
+  height: 150px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.x {
+  background-image: url('https://pbs.twimg.com/profile_images/2289193490/jtil7mo4agfji3bblqpz_400x400.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.o {
+  background-image: url('http://www.onlygfx.com/wp-content/uploads/2017/03/scribble-circle-2.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+#banner {
+  padding: 2%;
+  font-size: 2em;
+}
